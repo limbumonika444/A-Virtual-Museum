@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ade3f3bac376e5249a18a3fe2027f46a
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_HG_StonewallA.hlsl
+  uploadId: 715905

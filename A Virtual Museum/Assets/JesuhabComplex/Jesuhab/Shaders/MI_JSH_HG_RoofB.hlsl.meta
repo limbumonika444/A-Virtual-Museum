@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f5f9960688252cb448f25dddd6943a9d
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_HG_RoofB.hlsl
+  uploadId: 715905

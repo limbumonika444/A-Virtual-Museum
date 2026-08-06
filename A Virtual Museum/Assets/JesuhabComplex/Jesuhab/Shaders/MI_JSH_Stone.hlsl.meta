@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 37276991445be634e90ba420fd40b603
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_Stone.hlsl
+  uploadId: 715905

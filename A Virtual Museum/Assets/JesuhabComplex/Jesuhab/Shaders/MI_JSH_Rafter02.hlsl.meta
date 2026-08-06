@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4d6f78c63e150e1459a02ae1d16ed772
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_Rafter02.hlsl
+  uploadId: 715905

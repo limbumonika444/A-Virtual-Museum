@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1d7c0948fd99a85448f983e24858329e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/DefaultMaterial.hlsl
+  uploadId: 715905

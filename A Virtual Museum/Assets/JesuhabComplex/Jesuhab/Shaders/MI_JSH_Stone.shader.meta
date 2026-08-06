@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: abc00000000005042986220174489738
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_Stone.shader
+  uploadId: 715905

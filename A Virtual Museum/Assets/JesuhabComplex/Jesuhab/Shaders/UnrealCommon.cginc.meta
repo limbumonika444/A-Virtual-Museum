@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81f4f0e4ca2a1f6449e38f240aba3e0b
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/UnrealCommon.cginc
+  uploadId: 715905

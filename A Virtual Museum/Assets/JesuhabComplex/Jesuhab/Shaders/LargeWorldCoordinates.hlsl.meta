@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8ab3ea5157e26d644b96f5c02203a980
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/LargeWorldCoordinates.hlsl
+  uploadId: 715905

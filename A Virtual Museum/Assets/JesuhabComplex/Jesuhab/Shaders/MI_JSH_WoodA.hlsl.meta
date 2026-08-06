@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3ac88864d65c8a2449082fbda301e12e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_WoodA.hlsl
+  uploadId: 715905

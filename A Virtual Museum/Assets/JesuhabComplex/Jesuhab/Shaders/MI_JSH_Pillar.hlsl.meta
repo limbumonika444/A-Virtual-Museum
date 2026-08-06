@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6ea4f13b53ef73b4caca4c11349eeb9a
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_Pillar.hlsl
+  uploadId: 715905

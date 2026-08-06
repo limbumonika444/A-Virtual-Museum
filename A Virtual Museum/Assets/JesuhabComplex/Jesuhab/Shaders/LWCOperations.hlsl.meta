@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f645622e53a011045b9c41a577a2b5ad
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/LWCOperations.hlsl
+  uploadId: 715905

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2b7371e3da9386c479f244fdd4df6d92
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 304870
+  packageName: KHS - Jesuhab, Gyeongbokgung
+  packageVersion: 1.0
+  assetPath: Assets/JesuhabComplex/Jesuhab/Shaders/MI_JSH_GiwaA.hlsl
+  uploadId: 715905
