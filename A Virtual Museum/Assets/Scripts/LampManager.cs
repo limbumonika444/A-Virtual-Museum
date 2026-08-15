@@ -4,11 +4,11 @@ using UnityEngine;
 public class LampManager : MonoBehaviour
 {
     private List<GameObject> Children = new List<GameObject>();
-
     private GOInteraction myGOI;
 
     void Start()
     {
+    
         foreach (Transform child in transform)
         {
             if (child.CompareTag("Information"))
@@ -18,14 +18,11 @@ public class LampManager : MonoBehaviour
         }
 
         myGOI = GetComponent<GOInteraction>();
-
         if (myGOI == null)
         {
-            Debug.LogError("No GOInteraction attached to this object.");
-            return;
+            Debug.Log("No GOInteraction attached to this object.");
         }
 
-        
         foreach (GameObject child in Children)
         {
             child.SetActive(false);
@@ -34,15 +31,13 @@ public class LampManager : MonoBehaviour
 
     void Update()
     {
-        if (myGOI.LampInteraction)
+        if (myGOI != null && myGOI.Interaction == true)
         {
-
             foreach (GameObject child in Children)
             {
                 child.SetActive(!child.activeSelf);
             }
-
-            myGOI.LampInteraction = false;
+            myGOI.Interaction = false; // Reset state after handling
         }
     }
 }
