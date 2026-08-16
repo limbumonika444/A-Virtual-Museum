@@ -2858,7 +2858,7 @@ MonoBehaviour:
   - {fileID: 723992382}
   - {fileID: 1457200333}
   - {fileID: 1572629839}
-  speed: 3.5
+  speed: 4
   yOffset: 0
 --- !u!136 &1806333029
 CapsuleCollider:
