@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aladdin Lamp
+* source:	https://sketchfab.com/3d-models/aladdin-lamp-8eec4169398244cc8adc297da56a0b1e
+* author:	GOFOR3D (https://sketchfab.com/GOFOR3D)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aladdin Lamp" (https://sketchfab.com/3d-models/aladdin-lamp-8eec4169398244cc8adc297da56a0b1e) by GOFOR3D (https://sketchfab.com/GOFOR3D) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

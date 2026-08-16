@@ -1,0 +1,77 @@
+# Revit Wavefront OBJ Exporter 2.8.1 - (c) 2016 www.inglegreen.com
+# File Created: 8/25/2016 8:59:44 AM
+
+newmtl Default_Floor
+Ka 0.0000 0.0000 0.0000
+Kd 0.501960784313725 0.501960784313725 0.501960784313725 1.0
+d 1
+
+newmtl Marble_White
+Ka 0.0000 0.0000 0.0000
+Kd 0.470588235294118 0.470588235294118 0.470588235294118 1.0
+d 1
+map_Kd textures\Finishes.Masonry Flooring.Terrazzo.White.1.jpg
+
+newmtl Marble_Black
+Ka 0.0000 0.0000 0.0000
+Kd 0.470588235294118 0.470588235294118 0.470588235294118 1.0
+d 1
+map_Kd textures\Masonry.Stone.Onyx.Black.jpg
+
+newmtl Marble_Brown
+Ka 0.0000 0.0000 0.0000
+Kd 0.470588235294118 0.470588235294118 0.470588235294118 1.0
+d 1
+map_Kd textures\Finishes.Masonry Flooring.Terrazzo.Brown.jpg
+
+newmtl Thermoplastic_Resin
+Ka 0.0000 0.0000 0.0000
+Kd 0.470588235294118 0.470588235294118 0.470588235294118 1.0
+d 1
+
+newmtl Glass_Green
+Ka 0.0000 0.0000 0.0000
+Kd 0.470588235294118 0.470588235294118 0.470588235294118 1.0
+d 1
+
+newmtl Aluminum
+Ka 0.0000 0.0000 0.0000
+Kd 0.968627450980392 0.968627450980392 0.968627450980392 1.0
+d 1
+
+newmtl Door_-_Panel
+Ka 0.0000 0.0000 0.0000
+Kd 0.823529411764706 0.623529411764706 0.372549019607843 1.0
+d 1
+map_Kd textures\Woods & Plastics.Finish Carpentry.Wood.Red Birch.png
+
+newmtl Steel_Paint_Finish_Ivory_Glossy
+Ka 0.0000 0.0000 0.0000
+Kd 0.968627450980392 0.968627450980392 0.937254901960784 1.0
+d 1
+
+newmtl Roofing_EPDM_Membrane
+Ka 0.0000 0.0000 0.0000
+Kd 0.498039215686275 0.498039215686275 0.498039215686275 1.0
+d 1
+
+newmtl Walnut
+Ka 0.0000 0.0000 0.0000
+Kd 0.470588235294118 0.470588235294118 0.470588235294118 1.0
+d 1
+map_Kd textures\Woods & Plastics.Finish Carpentry.Wood.Walnut.png
+
+newmtl Default material
+Ka 0.0000 0.0000 0.0000
+Kd 0.588235294117647 0.588235294117647 0.588235294117647 1.0
+d 1
+
+newmtl Light_Bulb
+Ka 0.0000 0.0000 0.0000
+Kd 1 1 1 1.0
+d 0.25
+
+newmtl Vinyl
+Ka 0.0000 0.0000 0.0000
+Kd 0.470588235294118 0.470588235294118 0.470588235294118 1.0
+d 1
